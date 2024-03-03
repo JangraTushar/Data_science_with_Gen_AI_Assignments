@@ -1,0 +1,2 @@
+# Data_science_with_Gen_AI_Assignments
+assignments
